@@ -1,0 +1,12 @@
+optax
+control
+shapely 
+matplotlib 
+pypoman 
+tabulate 
+jax ~= 0.9.2
+jaxtyping 
+diffrax 
+equinox 
+immutabledict 
+git+https://github.com/gtfactslab/linrax.git@jax-0.9-support
