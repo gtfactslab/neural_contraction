@@ -1,6 +1,6 @@
 # Neural Contraction Metrics
 
-<video src="outputs/combined.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/9c4111e4-33cd-45a9-ae3c-e65e50c8deda" autoplay loop muted playsinline width="100%"></video>
 
 The code accompanying the submission "Learning Certified Neural Network Controllers Using Contraction and Interval Analysis"
 
